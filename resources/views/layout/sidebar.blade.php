@@ -44,6 +44,16 @@
             </a>
           </li>
 
+           <li class="nav-item">
+            <a href="{{'pertanyaan'}}" class="nav-link">
+              <i class="nav-icon fas fa-calendar-alt"></i>
+              <p>
+                Pertanyaan
+                <span class="badge badge-info right"></span>
+              </p>
+            </a>
+          </li>
+
         </ul>
       </nav>
       <!-- /.sidebar-menu -->

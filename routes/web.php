@@ -15,3 +15,6 @@ Route::get('/', function () {
     return view('home');
 });
  Route::get('/data-tables', 'HomeController@index');
+
+ Route::get('/pertanyaan', 'PertanyaanController');
+
